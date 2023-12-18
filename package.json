@@ -38,7 +38,7 @@
     "@vercel/analytics": "^1.0.1",
     "eventsource-parser": "^1.0.0",
     "midjourney": "^2.7.77",
-    "next": "^13.4.4"
+    "next": "^13.5.0"
   },
   "keywords": [
     "midjourney-api",
